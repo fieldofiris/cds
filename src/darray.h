@@ -1,5 +1,5 @@
-#ifndef DARRAY_H
-#define DARRAY_H
+#ifndef CDS_DARRAY_H
+#define CDS_DARRAY_H
 
 #include "lallocator.h"
 

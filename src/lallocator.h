@@ -1,5 +1,5 @@
-#ifndef LALLOCATOR_H
-#define LALLOCATOR_H
+#ifndef CDS_LALLOCATOR_H
+#define CDS_LALLOCATOR_H
 
 #include "stdlib.h"
 
